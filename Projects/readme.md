@@ -1,8 +1,14 @@
-## PH 202 Waves, Optics and Oscillations: Project (2021)
+## PH 202 Waves, Optics and Oscillations: Student Projects (2021)
 
-### Professor Anshuman Kumar, Physics Department, IIT Bombay
+### **Instructor:** Professor Anshuman Kumar, Physics Department, IIT Bombay
 
-Total strength is 53, so we will have 12 groups of 4 people each and 1 group of 5 people.
+tl;dr 1: Jupyter notebooks for each of the (numbered) projects below are available in the accompanying folder.
+
+tl;dr 2: A YouTube playlist where each student group explains their work is available here: 
+
+- Project topics have been decided by the instructor keeping the match with our course content in mind. No changes are permitted in the project topics as of now.
+
+- Total strength is 53, so we will have 12 groups of 4 people each and 1 group of 5 people.
 
 Requirements:
 
