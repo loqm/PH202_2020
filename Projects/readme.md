@@ -4,7 +4,7 @@
 
 tl;dr 1: Jupyter notebooks for each of the (numbered) projects below are available in the accompanying folder.
 
-tl;dr 2: A YouTube playlist where each student group explains their work is available here: 
+tl;dr 2: A YouTube playlist where each student group explains their work is available here: https://youtube.com/playlist?list=PLBAf4P2YTnSURugQ9g7G1W5iqG2daJnvP
 
 - Project topics have been decided by the instructor keeping the match with our course content in mind. No changes are permitted in the project topics as of now.
 
